@@ -1,9 +1,12 @@
 
 # Upload the file into the s3 bucket Using rest API via API Gateway.
+&nbsp;
 
-![bold s3](https://github.com/dharmaraj257/Upload-file-S3-bucket-Using-REST-API-via-API-Gateway/assets/100831265/03069f40-6922-42d2-80f5-4539eb609174)
+![bold](https://github.com/dharmaraj257/Upload-file-S3-bucket-Using-REST-API-via-API-Gateway/assets/100831265/1e818194-ef8a-4d53-b1f5-4a06b01fcafb)
 
 
+
+&nbsp;
 
 ### Step 1: Create a s3 Bucket
 
