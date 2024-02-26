@@ -67,5 +67,15 @@ Step 3: Create an API Gateway
 2. Go to the postman, select HTTP, select PUT method, and paste the URL.
 
 3. Select Binary, click the select file, upload a text file, and click Send.
+&nbsp;
+&nbsp;
+
+![postman](https://github.com/dharmaraj257/Upload-file-S3-bucket-Using-REST-API-via-API-Gateway/assets/100831265/06f2fbe8-5f29-4b32-a801-5f2c70aeb086)
 
 4. Check the Uploaded file in the S3 bucket.
+&nbsp;
+### OutPut:
+&nbsp;
+![s3 bucket](https://github.com/dharmaraj257/Upload-file-S3-bucket-Using-REST-API-via-API-Gateway/assets/100831265/c4a2ef3d-2b55-4338-9bb9-28e0cbebc9a7)
+
+
